@@ -1,4 +1,4 @@
-Data to be used in the Manx Ccorpus where any of:
+Data to be used in the Manx Corpus where any of:
 
 * Copyight is unknown and needs further research
 * Permission has been granted, but no formal license 
