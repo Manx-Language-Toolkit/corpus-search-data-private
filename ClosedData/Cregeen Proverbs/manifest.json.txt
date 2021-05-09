@@ -1,0 +1,5 @@
+{
+	"created": "1835-01-01",
+	"ident": "CregeenProverbs",
+	"name": "Cregeen Proverbs",
+}

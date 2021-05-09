@@ -1,0 +1,6 @@
+{
+	"created": "1707-01-01",
+	"ident": "CoyrleSodjey",
+	"name": "Coyrle Sodjey - The Principles and Duties of Christianity",
+	"externalPdfLink": "https://drive.google.com/uc?export=view&id=10tSr5w0kjPnW5JT3vEAR1ALRFyubaEld"
+}

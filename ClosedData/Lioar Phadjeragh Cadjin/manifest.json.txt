@@ -1,0 +1,5 @@
+{
+	"created": "1765-01-01",
+	"ident": "LioarPhadjeraghCadjin",
+	"name": "Lioar Phadjeragh Cadjin The Book of Common Prayer in Manx Gaelic",
+}

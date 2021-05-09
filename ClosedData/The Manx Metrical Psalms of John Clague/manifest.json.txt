@@ -1,0 +1,5 @@
+{
+	"created": "1809-01-01",
+	"ident": "ClagueTateBrady",
+	"name": "The Manx Metrical Psalms of John Clague (1809) edited and placed alongside the English originals of Tate and Brady",
+}

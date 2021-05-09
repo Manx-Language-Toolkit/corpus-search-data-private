@@ -1,0 +1,6 @@
+{
+	"created": "1610-01-01",
+	"ident": "Psalms1610",
+	"name": "Psalms",
+	"oldFileName": "Psalms_3_col_clean_philips_only"
+}

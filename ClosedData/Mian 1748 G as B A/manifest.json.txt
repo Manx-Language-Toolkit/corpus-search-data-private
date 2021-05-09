@@ -1,0 +1,6 @@
+{
+	"created": "1748-01-01",
+	"ident": "MatthewGospel1748",
+	"name": "Yn Sushtal scruit liorish yn Noo Mian",
+	"oldFileName": "Mian_1748_G_as_B_A"
+}
