@@ -1,0 +1,13 @@
+{
+	"created": "1953-01-01",
+	"ident": "Ynsaghey-Chengey-Hooie",
+	"name": "Ynsaghey Chengey Hooie My-Hene",
+	"englishName": "The Study of My Own Native Language",
+	"notes": "Biographical piece by John Comish",
+	"author": "J. Comes. Ed; P. Ó Broin",
+	"original": "Manx",
+	"type": "Biographical",
+	"transcription": "R. Teare",
+	"translation": "R. Teare",
+	"source":  "Teangadóir Iml I Uimh 3. Toronto. 1953.",
+}
