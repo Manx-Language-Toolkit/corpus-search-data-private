@@ -1,5 +1,0 @@
-{
-	"created": "1783-01-01",
-	"ident": "WilsonSermons1-12",
-	"name": "Manx Sermons 1-12",
-}
